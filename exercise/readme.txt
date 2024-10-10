@@ -1,6 +1,6 @@
 Hakemisto c:\exercise\frontend jossa React-sovellus
 Lataa kirjastot tarvittaessa, voivat olla jo zipissäkin
--  npm I
+-  npm i
 ja Axios
 
 Ajo
