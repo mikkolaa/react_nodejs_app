@@ -12,6 +12,7 @@ Lataa kirjastot
 - express
 - cors
 - nanoid
+- npm install typescript
 Käännös ja ajo
   npx tsc
   node server.js
