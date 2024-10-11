@@ -12,7 +12,7 @@ Jos virhe
 (node:8952) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
 
 Kokeile npm update tai tee replace tiedostoon jossa kyseiset functiot ovat ('/config/webpackDevServer.config.js') 
-
+Issue https://github.com/facebook/create-react-app/issues/12035
 
 
 Hakemisto c:\exercise\backend\src jossa Node-palvelu
